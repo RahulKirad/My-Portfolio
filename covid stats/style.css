@@ -1,0 +1,10 @@
+body{
+    background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);
+}
+h1{
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+    background-color: white;
+    border-radius: 5px;
+    text-align: center;
+}
